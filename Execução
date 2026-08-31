@@ -1,0 +1,23 @@
+
+## Como executar (setup básico)
+
+> ⚠️ Nenhuma credencial, chave de API ou token deve estar presente neste repositório. Use variáveis de ambiente (`.env`, não versionado) para armazenar chaves da API do Gemini e do Supabase.
+
+1. Clone o repositório
+2. Configure suas próprias credenciais do Supabase e da API do Gemini em um arquivo `.env` local (não commitado)
+3. Abra a simulação do dispositivo no [Wokwi](https://wokwi.com)
+4. Execute os scripts de teste da pasta `ai/` para testar a geração de recomendações
+
+## Equipe
+
+- Lucas — RM 570875
+- Gustavo Lino — RM 574157
+- Gustavo Linczuk — RM 573087
+
+## Contexto do desafio
+
+Projeto desenvolvido para o Challenge Sompo Seguros, com foco no segmento agrícola, como parte do curso [inserir nome do curso/instituição].
+
+## Documentação
+
+O documento completo de evolução técnica da Sprint 3 está disponível em `docs/evolucao-tecnica-sprint3.pdf`.
