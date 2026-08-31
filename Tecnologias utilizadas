@@ -1,0 +1,8 @@
+
+## Tecnologias utilizadas
+
+- **Hardware (simulado):** ESP32 + sensor DHT22, via [Wokwi](https://wokwi.com)
+- **Banco de dados:** [Supabase](https://supabase.com)
+- **Inteligência Artificial:** API do Google Gemini
+
+## Arquitetura (visão geral)
